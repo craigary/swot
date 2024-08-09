@@ -421,3 +421,4 @@ usx.edu.cn
 meduca.edu.pa
 umy.ac.id
 social.helwan.edu.eg
+alumni.uci.edu
