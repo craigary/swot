@@ -850,7 +850,6 @@ giza6.moe.edu.eg
 stu.hardin.kyschools.us
 oshstateuniversity.me
 pliaterytes.lt
-sies.edu.in
 nortec.edu.zm
 conkal.tecnm.mx
 nullsto.edu.pl
@@ -879,3 +878,7 @@ alfaunipac.com.br
 m.swu.ac.th
 erdi.swu.ac.th
 mail.rit.edu
+stu.twghwflc.edu.hk
+seb.sen.hs.kr
+bishanoi.net
+laclick.school
